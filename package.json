@@ -1,0 +1,24 @@
+{
+  "name": "random-str-msgb",
+  "version": "1.0.0",
+  "description": "Random strig messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brahayan-exe/random-str-msgb.git"
+  },
+  "keywords": [],
+  "author": "Brahayan Gonzalez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Brahayan-exe/random-str-msgb/issues"
+  },
+  "homepage": "https://github.com/Brahayan-exe/random-str-msgb#readme",
+  "bin":{
+    "random-str-msgb":"./bin/global.js"
+  },
+  "preferGlobal": true
+}
